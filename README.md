@@ -5,3 +5,4 @@ GTM skills for core workflows
 
 - [video-ad-pipeline-setup](video-ad-pipeline-setup/SKILL.md) — Use when setting up or rerunning a multi-agent LinkedIn video ad pipeline (customer data via MCP, Claude Opus scripts, Pictory video, OpenAI Astra review) on the bot's computer.
 - [linkedin-video-audiences](linkedin-video-audiences/SKILL.md) — Build and verify LinkedIn Campaign Manager video-retargeting audiences separated by positioning theme. Use for actual audience creation from existing video ads, not just diagrams or campaign launch.
+- [cold-email-volume](cold-email-volume/SKILL.md) — Use when planning or running high-volume B2B cold email and you need inbox math, list capacity, provider splits, copy rules, inbox health, and reply triage.
