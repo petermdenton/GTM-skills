@@ -34,7 +34,7 @@ Current path: customer data (marketing MCP), then a script drafted by Claude Opu
 1. Install Wideframe on a Mac with Apple Silicon (M1 or later). Confirm the bundled `caltools` CLI runs in the shell that will do the work.
 2. Wideframe needs the Mac online. The app analyzes footage in the cloud and renders on that Mac. Before assembly or `sequence-render-final`, confirm the Mac is on, awake, and online. If it is not, stop and say so.
 3. Assembly layout, matching the production team skill: graded footage clips on V1, the transparent ProRes 4444 typography overlay on V2. Render with `caltools sequence-render-final`.
-4. Do not start a render that spends credits until Gate 2 in the production team skill (preview plus the stated cost) has a yes.
+4. The preview render spends no credits. Do not buy a paid asset, and do not start a render that spends credits, until the user has heard the cost and said yes. A paid final render waits for Gate 2 in the production team skill.
 
 ## 4. Running an ad
 
@@ -42,9 +42,9 @@ Follow the production team skill end to end. In short:
 
 1. Write a brief from the customer data: audience, required points, banned words, CTA, length, and format. Default to 16:9. Use 1:1 when the LinkedIn placement calls for it.
 2. Opus drafts 2-3 options. A separate Opus call critiques them against the copy loop. Show only options that pass, recommended first.
-3. After the copy pick, the orchestrator grades licensed stock (Pexels is the usual library), records credits, blurs third-party labels and identifiable faces, and builds the type overlay.
-4. Wideframe assembles V1 and V2 and renders a preview. QA the frames before sending.
-5. Send the preview and the cost of any credits (including a zero cost). Wait for a yes before any paid render, then deliver the final file.
+3. After the copy pick, the orchestrator grades licensed stock (Pexels is the usual library), records credits, blurs third-party labels and identifiable faces, and builds the type overlay. State the price and wait for a yes before any paid stock, voice, or music.
+4. Wideframe assembles V1 and V2 and renders a preview that spends no credits. If the preview render would spend credits, stop and get a yes first. QA the frames before sending.
+5. Send the preview and the cost of the paid render (including a zero cost). Wait for a yes before that render, then deliver the final file.
 6. When the user corrects the work, add the underlying lesson as the next numbered rule in the copy loop skill, or in the production team skill for a picture or process issue.
 
 ## Rules
