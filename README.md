@@ -33,3 +33,5 @@ flowchart TD
 2. Edit the `SKILL.md` you are changing, or add a new folder with its own `SKILL.md`. Keep the frontmatter valid: `name` and `description` are required.
 3. Open a pull request against `main`.
 4. When a correction is learned from real use, add it as the next numbered rule in that skill. Write the general principle, with a neutral example. Leave client names, people, and confidential facts out of the skill.
+
+This project is licensed under the [MIT License](LICENSE). Copyright 2026 Peter Denton (GitHub: petermdenton). Contributions are accepted under that license.
